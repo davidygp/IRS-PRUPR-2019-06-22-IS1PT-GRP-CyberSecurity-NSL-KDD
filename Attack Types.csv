@@ -1,0 +1,41 @@
+back,dos,
+buffer_overflow,u2r,
+ftp_write,r2l,
+guess_passwd,r2l,
+imap,r2l,
+ipsweep,probe,
+land,dos,
+loadmodule,u2r,
+multihop,r2l,
+neptune,dos,
+nmap,probe,
+perl,u2r,
+phf,r2l,
+pod,dos,
+portsweep,probe,
+rootkit,u2r,
+satan,probe,
+smurf,dos,
+spy,r2l,
+teardrop,dos,
+warezclient,r2l,
+warezmaster,r2l,
+normal,normal,
+unknown,unknown,
+saint,probe,added (not in training set)
+mscan,probe,added (not in training set)
+apache2,dos,added (not in training set)
+snmpgetattack,r2l,added (not in training set)
+processtable,dos,added (not in training set)
+httptunnel,u2r,added (not in training set)
+ps,u2r,added (not in training set)
+snmpguess,r2l,added (not in training set)
+mailbomb,dos,added (not in training set)
+named,r2l,added (not in training set)
+sendmail,r2l,added (not in training set)
+xterm,u2r,added (not in training set)
+worm,r2l,added (not in training set)
+xlock,r2l,added (not in training set)
+xsnoop,r2l,added (not in training set)
+sqlattack,u2r,added (not in training set)
+udpstorm,dos,added (not in training set)
