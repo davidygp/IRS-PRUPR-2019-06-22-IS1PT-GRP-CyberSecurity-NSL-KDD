@@ -23,7 +23,7 @@ $ git clone https://github.com/davidygp/IRS-PRUPR-2019-06-22-IS1PT-GRP-CyberSecu
   
 $ pip install imbalanced-learn numpy pandas sklearn pickle joblib tensorflow
 
-$ cd ./IRS-MR-2019-01-19-IS1PT-GRP-MRCard/
+$ cd ./IRS-PRUPR-2019-06-22-IS1PT-GRP-CyberSecurity-NSL-KDD/
 
 $ jupyter notebook
 
