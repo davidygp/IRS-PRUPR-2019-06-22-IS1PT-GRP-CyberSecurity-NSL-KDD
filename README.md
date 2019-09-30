@@ -1,15 +1,17 @@
 # SECTION 1 : PROJECT TITLE
 CyberSecurity NSL-KDD
 
+
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
 
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
-Official Full Name |	Student ID (MTech Applicable)	| Work Items (Who Did What)	| Email (Optional)
-DAI YIRUI | A0123456U | Business idea generation, PCA, Clustering | e0123456@u.nus.edu
-MEIRONG | A0123456U | Business idea generation, project report | e0123456@u.nus.edu
-LIM CHONG SENG HERMANN | A0195392U	| Business idea generation	| e0385023@u.nus.edu
-YAM GUI PENG DAVID | A0195315A	| Business idea generation, project report | e0384946@u.nus.edu
+| Official Full Name | Student ID (MTech Applicable)| Work Items (Who Did What) | Email (Optional) |
+| :---: | :---: | :---: | :---: |
+| DAI YIRUI | A0123456U | Business idea generation, PCA, Clustering | e0123456@u.nus.edu |
+| MEIRONG | A0123456U | Business idea generation, project report | e0123456@u.nus.edu |
+| LIM CHONG SENG HERMANN | A0195392U	| Business idea generation	| e0385023@u.nus.edu |
+| YAM GUI PENG DAVID | A0195315A	| Business idea generation, project report | e0384946@u.nus.edu |
 
 
 # SECTION 4 : USER GUIDE
