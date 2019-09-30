@@ -58,5 +58,8 @@ KDDTrain+.txt
 KDDTest+.txt
 - The NSL-KDD Test Dataset
 
-Cyber Dataset.csv/ Cyber Dataset.hdf5
+NSL-KDD-Multiclass_Classification.html/NSL-KDD-Multiple_Binaryclass_Classification.html
+- HTML saved files of the jupyter notebook outputs
+
+Cyber Dataset.csv/Cyber Dataset.hdf5
 - Artifacts of the NN Training Model
