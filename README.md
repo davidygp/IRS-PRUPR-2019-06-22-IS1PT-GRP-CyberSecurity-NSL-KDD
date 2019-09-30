@@ -33,7 +33,7 @@ $ jupyter notebook
   (open up NSL-KDD-Multiple_Binaryclass_Classification.ipynb)
 
 # SECTION 5 : PROJECT REPORT / PAPER
-https://github.com/davidygp/IRS-PRUPR-2019-06-22-IS1PT-GRP-CyberSecurity-NSL-KDD/ProjectReport/Report.pdf
+https://github.com/davidygp/IRS-PRUPR-2019-06-22-IS1PT-GRP-CyberSecurity-NSL-KDD/blob/master/ProjectReport/Report.pdf
 
 Recommended Sections for Project Report / Paper:
 - Executive Summary
