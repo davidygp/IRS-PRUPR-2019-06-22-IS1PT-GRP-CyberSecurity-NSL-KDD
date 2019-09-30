@@ -1,6 +1,7 @@
 # SECTION 1 : PROJECT TITLE
 CyberSecurity NSL-KDD
 
+<img width="812" alt="welcome" src="https://user-images.githubusercontent.com/31118924/65891611-66949c80-e3d7-11e9-86b5-91252ed57ed8.PNG">
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 For this assignment, the team decided to work on the NSL-KDD dataset (network security related) as it is widely documented with a large amount of samples that mimic real scenarios. With the sizable dataset, the team was able to apply different algorithms to analyse their effectiveness in classifying the data. We utilised techniques for feature selection such as Principal Component Analysis to prepare the data, and then applied classification algorithms such as Decision Tree, Random Forest, K-Nearest Neighbours, Isolation Forest. Through this project, the team learned how to practically prepare and partition data, and also on how to build ensemble/hybrid models.
