@@ -19,11 +19,17 @@ CyberSecurity NSL-KDD
 [ 1 ] To run Jupyter Notebook 
 
 $ git clone https://github.com/davidygp/PRUPR-MR-2019-06-22-IS1PT-GRP-CyberSecurity-NSL-KDD
+
   (Ensure Anaconda is installed)
+  
 $ pip install imbalanced-learn numpy pandas sklearn pickle joblib tensorflow
+
 $ cd ./IRS-MR-2019-01-19-IS1PT-GRP-MRCard/
+
 $ jupyter notebook
+
   (open up NSL-KDD-Multiclass_Classification.ipynb)
+  
   (open up NSL-KDD-Multiple_Binaryclass_Classification.ipynb)
 
 # SECTION 5 : PROJECT REPORT / PAPER
